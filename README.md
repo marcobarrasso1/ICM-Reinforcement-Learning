@@ -1,2 +1,2 @@
-# ICM-Reinforcement-Learning
-A3C algorithm and ICM module for training an agent to play Super Mario Bros
+# ICM-reinforcement-learning
+final project for the Reinforcement Learning course @UNITS
